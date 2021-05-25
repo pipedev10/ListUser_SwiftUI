@@ -12,7 +12,7 @@ struct UserRow: View {
     
     var body: some View {
         HStack {
-            Image(systemName: "person.circle")
+            Image(systemName: "face.smiling")
                 .resizable()
                 .clipShape(Circle())
                 .shadow(radius: 3)

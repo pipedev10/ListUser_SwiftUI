@@ -22,6 +22,7 @@
 		91115127265C9F0600579E81 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91115126265C9F0600579E81 /* CircleImage.swift */; };
 		91115129265CA22300579E81 /* UserDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91115128265CA22300579E81 /* UserDetail.swift */; };
 		9111512B265CA4BD00579E81 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9111512A265CA4BD00579E81 /* MapView.swift */; };
+		9111512D265CAB9800579E81 /* AlertMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9111512C265CAB9800579E81 /* AlertMessage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		91115126265C9F0600579E81 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		91115128265CA22300579E81 /* UserDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDetail.swift; sourceTree = "<group>"; };
 		9111512A265CA4BD00579E81 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		9111512C265CAB9800579E81 /* AlertMessage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertMessage.swift; sourceTree = "<group>"; };
 		B86241CE96AC58747E4A512D /* Pods-ListUser_SwiftUI.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ListUser_SwiftUI.release.xcconfig"; path = "Target Support Files/Pods-ListUser_SwiftUI/Pods-ListUser_SwiftUI.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -117,6 +119,7 @@
 				91115126265C9F0600579E81 /* CircleImage.swift */,
 				91115128265CA22300579E81 /* UserDetail.swift */,
 				9111512A265CA4BD00579E81 /* MapView.swift */,
+				9111512C265CAB9800579E81 /* AlertMessage.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -279,6 +282,7 @@
 				91115127265C9F0600579E81 /* CircleImage.swift in Sources */,
 				91115104265C83E100579E81 /* ListUser_SwiftUIApp.swift in Sources */,
 				91115117265C84C000579E81 /* UserRow.swift in Sources */,
+				9111512D265CAB9800579E81 /* AlertMessage.swift in Sources */,
 				91115123265C93BA00579E81 /* NetworkClient.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
